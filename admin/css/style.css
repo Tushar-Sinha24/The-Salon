@@ -1,0 +1,144 @@
+footer{
+    background-color: #2f3542;
+    color: white;
+    text-align: center;
+    padding: 1%;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container1{
+    width: 80%;
+    margin: auto;
+    min-height: 64.5vmin;
+    
+}
+
+main{
+    background-color: #f1f2f6;
+    
+    padding-top: 10vmin;
+    padding-bottom: 10vmin;
+}
+
+.btn-pri{
+    background-color: #305dbe;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    text-decoration: none;
+    font-weight:500 ;
+}
+
+.btn-pri:hover{
+    background-color: #173066;
+    color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.add{
+    margin-top: 5vmin;
+   margin-bottom: 5vmin;
+  
+}
+
+
+form{
+    width: 100%;
+    background-color: white;
+    padding: 5vmin;
+    justify-content: center;
+}
+.btn-sec{
+    background-color: #1d911d;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    text-decoration: none;
+    font-weight:500 ;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.btn-sec:hover{
+    color: white;
+    background-color: #075807;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+table tr td{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-right: 20px;
+}
+
+.add-admin input[type=text]{
+    padding: 10px 16px;
+    margin: 10px 0;
+    box-sizing: border-box;
+}
+
+.add-admin input[type=password]{
+    padding: 10px 16px;
+    margin: 10px 0;
+    box-sizing: border-box;
+}
+
+.btn-update{
+    background-color: #1d911d;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    text-decoration: none;
+    font-weight:500 ;
+}
+
+.btn-update:hover{
+    color: white;
+    background-color: #075807;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+
+.btn-delete{
+    background-color: #cc2525;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    text-decoration: none;
+    font-weight:500 ;
+}
+
+.btn-delete:hover{
+    color: white;
+    background-color: #b90000;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+.admin-container{
+    background-color: white;
+}
+
+nav i{
+    color: white;
+    padding: 1vmin;
+    
+}
+
+.update{
+    width: 80%;
+    margin: auto;
+    height: 100%;
+}
+.change{
+    padding: 1vmin;
+    display:flex;
+    
+    justify-content: end;
+}
+
