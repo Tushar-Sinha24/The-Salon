@@ -12,9 +12,7 @@
     <title>Salon</title>
   </head>
   <body>
-    
     <header>
-        
         <div class="container-fluid p-0">
           <nav class="navbar navbar-expand-lg">
             <a class="navbar-brand text-dark" href="#">Looks Salon</a>
@@ -57,9 +55,9 @@
           <div class="row">
             <div class="col-md-7 col-sm-12  text-white">
               <h6>UNISEX SALON</h6>
-              <h1>THE </h1>
+              <h1>LOOKS SALON</h1>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere accusamus eum dignissimos ipsa sequi expedita.
+                Were style and passion are born.
               </p>
               
             </div>
@@ -69,14 +67,6 @@
           </div>
         </div>
       </header>
-
-
-    
-
-    
-
-
-    
 
     <main>
         <section class="section-1">
@@ -89,10 +79,10 @@
                 </div>
                 <div class="col-md-6 col-12">
                   <div class="panel text-left">
-                    <h1>Mr. Devid Smith</h1>
+                    <h1>Mr. Javed Habibi</h1>
                     <p class="pt-4">
-                      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere iure adipisci harum ducimus accusantium, repudiandae aperiam
-                      voluptatum, id ex ratione omnis reiciendis possimus officiis.
+                    Our experts work tirelessly to bring the latest trends in the world of hair, skin and makeup straight off the Lakmé Fashion Week runway to your nearest salon.
+
                     </p>
                     <p>
                       Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi vitae, tenetur quidem eum aliquid vel labore sint placeat
@@ -104,8 +94,6 @@
               </div>
             </div>
           </section>
-        
-
 
         <section class="section-2">
             <div class="container text-container text-center ">
@@ -117,17 +105,17 @@
                 <div class="col-md-4 col-12 text-center">
                     <div class="card mr-2 d-inline-block shadow-lg ">
                         <div class="card-img-top">
-                            <img src="images/trim.jpg" alt="" class="img-fluid">
+                            <img src="images/aniket.jpg" alt="" class="img-fluid">
                         </div>
                         <div class="card-body">
                             <h3 class="crd-title">
-                                Title
+                                Aniket Kumar
                             </h3>
                             <p class="card-text">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, cumque vero quaerat cum porro perspiciatis quae fugiat aperiam, fuga omnis voluptatem? Accusamus, hic architecto veritatis repudiandae inventore ab velit necessitatibus.
+                            I visited the spa on recommendation of Tripadvisor. No doubt the spa is excellent, very professional staffs. I had a very relaxing massage. the spa is clean and beautiful ambiance. I will surely recommend. Lorem ipsum dolor sit amet.
                             </p>
                             <div class="button">
-                                <a href="#" class="btn btn-primary btn-dark">Go somewhere</a>
+                                <a href="https://www.instagram.com/zayn/" class="btn btn-primary btn-dark">Go somewhere</a>
                               </div>
                         </div>
                     </div>
@@ -135,17 +123,18 @@
                 <div class="col-md-4 col-12 text-center">
                     <div class="card mr-2 d-inline-block shadow-lg">
                         <div class="card-img-top">
-                            <img src="images/trim.jpg" alt="" class="img-fluid">
+                            <img src="images/aditi.jpg" alt="" class="img-fluid">
                         </div>
                         <div class="card-body">
                             <h3 class="crd-title">
-                                Title
+                                Aditi Singh
                             </h3>
                             <p class="card-text">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, cumque vero quaerat cum porro perspiciatis quae fugiat aperiam, fuga omnis voluptatem? Accusamus, hic architecto veritatis repudiandae inventore ab velit necessitatibus.
-                            </p>
+                            We were in Pune for summer vacation break and while crossing Baner , we came across Alines sign boards . We decided to try this out as our experience with their Goa outlet was really good . When we reached their Pune outlet , we were pleasantly surprised by the serene place and peaceful ambience .
+
+                          </p>
                             <div class="button">
-                                <a href="#" class="btn btn-primary btn-dark">Go somewhere</a>
+                                <a href="https://www.instagram.com/dualipa/" class="btn btn-primary btn-dark">Go somewhere</a>
                               </div>
                         </div>
                     </div>
@@ -153,17 +142,17 @@
                 <div class="col-md-4 col-12 text-center">
                     <div class="card mr-2 d-inline-block shadow-lg">
                         <div class="card-img-top">
-                            <img src="images/trim.jpg" alt="" class="img-fluid">
+                            <img src="images/rahul.jpg" alt="" class="img-fluid">
                         </div>
                         <div class="card-body">
                             <h3 class="crd-title">
-                                Title
+                                Rahul Agarwal
                             </h3>
                             <p class="card-text">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, cumque vero quaerat cum porro perspiciatis quae fugiat aperiam, fuga omnis voluptatem? Accusamus, hic architecto veritatis repudiandae inventore ab velit necessitatibus.
-                            </p>
+                            We were in Pune for summer vacation break and while crossing Baner , we came across Alines sign boards . We decided to try this out as our experience with their Goa outlet was really good . When we reached their Pune outlet , we were pleasantly surprised by the serene place and peaceful ambience .      
+                          </p>
                             <div class="button">
-                                <a href="#" class="btn btn-primary btn-dark">Go somewhere</a>
+                                <a href="https://www.instagram.com/therahuldua/" class="btn btn-primary btn-dark">Go somewhere</a>
                               </div>
                         </div>
                     </div>
