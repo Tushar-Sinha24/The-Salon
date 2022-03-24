@@ -22,8 +22,8 @@
                   <div class="dropdown">
                     <a href="#" class="nav-link">SERVICES</a>
                     <div class="dropdown-content">
-                      <a href="#">Ladies</a>
-                      <a href="#">Gents</a>
+                      <a href="femaleservice.php">Ladies</a>
+                      <a href="menservice.php">Gents</a>
                     </div>
                   </div>
                 </li>

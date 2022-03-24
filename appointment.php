@@ -82,28 +82,34 @@ if(isset($_POST[ "submit" ])){
     $appointment_for=$_POST['appointment_for'];
     $appointmentwith = $_POST['appointment_with'];
     $contact=$_POST['contact'];
+    // $message="";
+    // $message .= "Hi! ".$name."\r\n";
+    // echo $message .= "Please wait for a confirmation email for your appointment for ".$appointment_for. ". We will contact you asap.";
+    // $sub="For Appointment"
+
+    // mail($email,$sub,$message);
     
-    //2 sql query
 
     $sql="INSERT INTO oder (name, date, address, appointment_for, appointmentwith, email, contact) VALUES ('$name', '$date', '$address', '$appointment_for', '$appointmentwith', '$email', '$contact');
     ";
     
-   //3saving data
+   
     $res = mysqli_query($conn, $sql);
 
-    //4 query execution 
+    
 
     if($res==TRUE)
     {
-        echo "inserted";
+        // echo "inserted";
         // $_SESSION['add'] = "Admin added successfully";
 
         // header("location:".SITEURL.'admin/manage_admin.php');
+        
     }
 
     else{
         echo mysqli_error($conn);
-        echo "not inserted";
+        // echo "not inserted";
         // $_SESSION['add'] = "FAILURE";
 
         // header("location:".SITEURL.'admin/add-admin.php');

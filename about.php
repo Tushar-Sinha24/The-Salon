@@ -14,7 +14,6 @@
   <body>
 
 <?php include('main-partial/nav.php');?>
-
 <main>
         <section class="section1">
           <section class="section-1">
@@ -29,13 +28,12 @@
                   <div class="panel text-left">
                     <h1>About Us</h1>
                     <p class="pt-4">
-                      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere iure adipisci harum ducimus accusantium, repudiandae aperiam
-                      voluptatum, id ex ratione omnis reiciendis possimus officiis.
+                    Established in the year 2018, ABOUT Hair Make Up Skin Unisex Salon in Adajan Dn, Ranchi is a top player in the category Beauty Parlours in the Surat. This well-known establishment acts as a one-stop destination servicing customers both local and from other parts of Ranchi.
+                    Over the course of its journey, this business has established a firm foothold in it’s industry
                     </p>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi vitae, tenetur quidem eum aliquid vel labore sint placeat
-                      ad deserunt consectetur fugit ullam. Eius unde neque ducimus obcaecati ipsum quos vero totam recusandae hic
-                      expedita nemo sit, illum harum. Quisquam impedit ullam itaque facere et ad molestiae quod reprehenderit excepturi!
+                    It is an effortless task in commuting to this establishment as there are various modes of transport readily available. It is at Next to The Lane Of TGB Restaurant, Opposite Raj Arcade, Pal, which makes it easy for first-time visitors in locating this establishment. It is known to provide top service in the following categories: Beauty Parlours, Salons, Women Beauty Parlours, Bridal Makeup Artists, Makeup Artists, Beauty Salons For Men, Unisex Salons, Beauty Salons For Women.
+
                     </p>
                   </div>
                 </div>
@@ -44,26 +42,25 @@
           </section>
         </section>
 
-
         <section class="section2">
           <div class="container text-center">
-            <h1 class="text-dark">What our Reader's Say about us</h1>
+            <h1 class="text-dark">Our Professional Hair designer and Beauty Consaltant</h1>
             <p class="text-secondary">Lorem ipsum dolor sit amet.</p>
           </div>
           <div class="team row ">
             <div class="col-md-4 col-12 text-center">
                 <div class="card mr-2 d-inline-block shadow-lg">
                     <div class="card-img-top">
-                      <img src="images/trim.jpg" class="img-fluid border-radius p-4" alt="">
+                      <img src="images/abhay.jpg" class="img-fluid border-radius p-4" alt="">
                     </div>
                     <div class="card-body">
-                      <h3 class="card-title">Blalock Jolene</h3>
+                      <h3 class="card-title">Abhay Choudary</h3>
                       <p class="card-text">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint iure autem recusandae, veniam, illo dolor soluta assumenda
                         minima quia velit officia sit exercitationem nam ipsa, repellendus aut facilis quasi voluptas!
                       </p>
                       <a href="#" class="text-secondary text-decoration-none">Go somewhere</a>
-                      <p class="text-black-50">CEO at Google</p>
+                      <p class="text-black-50">proffesional makeup artist</p>
                     </div>
                   </div>
             </div>
@@ -71,32 +68,32 @@
             <div class="col-md-4 col-12 text-center">
               <div class="card mr-2 d-inline-block shadow-lg">
                   <div class="card-img-top">
-                    <img src="images/trim.jpg" class="img-fluid border-radius p-4" alt="">
+                    <img src="images/somsi.jpeg" class="img-fluid border-radius p-4" alt="">
                   </div>
                   <div class="card-body">
-                    <h3 class="card-title">Blalock Jolene</h3>
+                    <h3 class="card-title">Somsi Jaiswal</h3>
                     <p class="card-text">
                       Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint iure autem recusandae, veniam, illo dolor soluta assumenda
                       minima quia velit officia sit exercitationem nam ipsa, repellendus aut facilis quasi voluptas!
                     </p>
                     <a href="#" class="text-secondary text-decoration-none">Go somewhere</a>
-                    <p class="text-black-50">CEO at Google</p>
+                    
                   </div>
                 </div>
           </div>
           <div class="col-md-4 col-12 text-center">
             <div class="card mr-2 d-inline-block shadow-lg">
                 <div class="card-img-top">
-                  <img src="images/trim.jpg" class="img-fluid border-radius p-4" alt="">
+                  <img src="images/aditya.jpg" class="img-fluid border-radius p-4" alt="">
                 </div>
                 <div class="card-body">
-                  <h3 class="card-title">Blalock Jolene</h3>
+                  <h3 class="card-title">Aditya Singh4</h3>
                   <p class="card-text">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint iure autem recusandae, veniam, illo dolor soluta assumenda
                     minima quia velit officia sit exercitationem nam ipsa, repellendus aut facilis quasi voluptas!
                   </p>
                   <a href="#" class="text-secondary text-decoration-none">Go somewhere</a>
-                  <p class="text-black-50">CEO at Google</p>
+                  <p class="text-black-50">Loreal Hair styler</p>
                 </div>
               </div>
         </div>

@@ -25,8 +25,12 @@
         <li class="nav-item">
           <a class="nav-link" href="admin.php">Admin Manager</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="categories.php">Categories</a>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Categories</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="male.php">Men's</a></li>
+            <li><a class="dropdown-item" href="female.php">Female's</a></li>
+          </ul>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="order.php">Order</a>
